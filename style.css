@@ -18,14 +18,14 @@ nav {
 }
 
 nav ul {
-  list-syle: none;
+  list-style: none;
   display: flex;
   gap: 20px;
 }
 nav a {
   color: white;
   text-decoration: none;
-  {
+}
 
   section {
     padding: 50px;
