@@ -173,4 +173,19 @@ footer {
     padding: 60px 7%;
   }
 }
+
+.cv-button {
+  display: inline-block;
+  margin-top: 25px;
+  background-color: #2563eb;
+  color: white;
+  padding: 12px 25px;
+  border-radius: 8px;
+  text-decoration: none;
+  transition: 0.3s;
+}
+
+.cv-button:hover {
+  background-color: #1e40af;
+}
   
