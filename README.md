@@ -8,7 +8,7 @@ This website tries to showcase my technical skills, academic background, softwar
 
 ## Live Website
 
-hhtps://gisajoseph660-creator.github.io/computer-science-portfolio
+https://gisajoseph660-creator.github.io/computer-science-portfolio
 
 ## GitHub Repository
 
